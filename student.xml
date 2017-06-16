@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student xmlns="http://www.example.org/Student">
+    <studentId>10001</studentId>
+    <name>Sharath</name>
+    <marks>
+        <subject>Java</subject>
+        <marks>95.0</marks>
+        <maxMarks>100.0</maxMarks>
+    </marks>
+    <addressType>Home</addressType>
+    <address>
+        <street>ABC Street</street>
+        <state>TX</state>
+        <zipcode>78563</zipcode>
+    </address>
+</student>
